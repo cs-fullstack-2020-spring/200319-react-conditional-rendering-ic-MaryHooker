@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(223, 205, 108);
+}
+
+.App {
+  text-align: center;
+  background-color: rgb(187, 45, 45);
+  color: rgb(223, 205, 108);
+  height: 140vh;
+  font-family: serif;
+  font-size: 25px;
+}
+
+.cat{
+  
+  width: 40%;
+  border: 7px solid rgb(223, 205, 108);
+}
+
+.dog{
+  
+  width: 52%;
+  border: 7px solid rgb(196, 132, 14);
+}
+
+.button{
+  background-color: rgb(223, 205, 108);
+  color: rgb(187, 45, 45);
+  height: 30px;
+  font-family: serif;
+  font-weight: bold;
+  font-size: 18PX;
+}
