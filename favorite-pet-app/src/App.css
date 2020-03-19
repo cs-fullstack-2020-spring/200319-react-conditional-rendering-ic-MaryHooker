@@ -6,28 +6,34 @@ body{
   text-align: center;
   background-color: rgb(187, 45, 45);
   color: rgb(223, 205, 108);
-  height: 140vh;
+  height: 96vh;
   font-family: serif;
   font-size: 25px;
+  border: 15px solid rgb(78, 11, 78);
 }
 
 .cat{
   
-  width: 40%;
-  border: 7px solid rgb(223, 205, 108);
+  width: 21%;
+  border: 10px solid rgb(223, 205, 108);
 }
 
 .dog{
   
-  width: 52%;
-  border: 7px solid rgb(196, 132, 14);
+  width: 31%;
+  border: 9px solid rgb(78, 11, 78);
 }
 
 .button{
   background-color: rgb(223, 205, 108);
   color: rgb(187, 45, 45);
-  height: 30px;
+  height: 34px;
   font-family: serif;
   font-weight: bold;
-  font-size: 18PX;
+  font-size: 20PX;
+  border: 5px solid rgb(78, 11, 78);
+}
+
+.catDog{
+  color: rgb(78, 11, 78);
 }
